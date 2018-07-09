@@ -1,0 +1,56 @@
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.dll
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.pdb
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.dll
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.pdb
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.dll
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.pdb
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.pdb
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaNegocio\obj\Debug\CapaNegocio.pdb

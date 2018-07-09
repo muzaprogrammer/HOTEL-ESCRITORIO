@@ -1,0 +1,205 @@
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.dll
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservaciones.resources
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\jlozano\Documents\Visual Studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+C:\Users\jlozano\Documents\Visual Studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarCliente.resources
+C:\Users\jlozano\Documents\Visual Studio 2015\Projects\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoCliente.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarCliente.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoCliente.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservaciones.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarCliente.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleados.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoCliente.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservaciones.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEmpleado.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoEmpleado.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEmpleado.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleados.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoEmpleado.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarCliente.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEmpleado.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleados.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoCliente.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoEmpleado.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservaciones.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormHabitaciones.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEliminarHabitaciones.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarHabitacion.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarHabitacion.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarHabitacion.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEliminarHabitaciones.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarHabitacion.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormHabitaciones.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarHabitacion.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEliminarHabitaciones.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarHabitacion.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormHabitaciones.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarHabitacion.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormDisponibilidad.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarCliente.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEliminarHabitaciones.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEmpleado.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarHabitacion.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleados.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormHabitaciones.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoCliente.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoEmpleado.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservaciones.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormDisponibilidad.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.NuevaReservacion.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevaReservacion.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarHabitacion.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormDisponibilidad.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarCliente.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEliminarHabitaciones.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEmpleado.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarHabitacion.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleados.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormHabitaciones.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevaReservacion.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoCliente.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoEmpleado.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservaciones.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.NuevaReservacion.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\M_Hdz\Music\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.dll
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarHabitacion.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormDisponibilidad.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarCliente.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEliminarHabitaciones.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEmpleado.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarHabitacion.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleados.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormHabitaciones.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevaReservacion.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoCliente.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoEmpleado.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservaciones.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarReservacion.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.dll
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarHabitacion.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormDisponibilidad.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarCliente.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEliminarHabitaciones.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarEmpleado.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarHabitacion.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEmpleados.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormHabitaciones.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevaReservacion.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoCliente.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormNuevoEmpleado.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservaciones.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormEditarReservacion.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarHotel.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormHoteles.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarServicio.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormServicios.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarHotel.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormAgregarServicio.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormHoteles.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormServicios.resources
+G:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormSalir.resources
+F:\PROYECTOS C#\HOTEL PURA VIDA\SisReservacionesHotel\CapaPresentacion\obj\Debug\CapaPresentacion.FormSalir.resources

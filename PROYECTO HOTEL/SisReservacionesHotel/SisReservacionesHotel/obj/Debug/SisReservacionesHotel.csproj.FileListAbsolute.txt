@@ -1,0 +1,84 @@
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe.config
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.pdb
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.dll
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.pdb
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csprojResolveAssemblyReference.cache
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.Properties.Resources.resources
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csproj.GenerateResource.Cache
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.exe
+c:\users\jlozano\documents\visual studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.pdb
+C:\Users\jlozano\Documents\Visual Studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.dll
+C:\Users\jlozano\Documents\Visual Studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.dll
+C:\Users\jlozano\Documents\Visual Studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.pdb
+C:\Users\jlozano\Documents\Visual Studio 2015\Projects\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe.config
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.exe
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.dll
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.pdb
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csprojResolveAssemblyReference.cache
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.Properties.Resources.resources
+F:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csproj.GenerateResource.Cache
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe.config
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.exe
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.dll
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.pdb
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csprojResolveAssemblyReference.cache
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.Properties.Resources.resources
+G:\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csproj.GenerateResource.Cache
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe.config
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.exe
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.dll
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.pdb
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csprojResolveAssemblyReference.cache
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.Properties.Resources.resources
+C:\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csproj.GenerateResource.Cache
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe.config
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.exe
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.dll
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.pdb
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csprojResolveAssemblyReference.cache
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.Properties.Resources.resources
+C:\Users\M_Hdz\Pictures\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csproj.GenerateResource.Cache
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe.config
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.exe
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.pdb
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.exe
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\SisReservacionesHotel.pdb
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.dll
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.dll
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.dll
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaPresentacion.pdb
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaNegocio.pdb
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\bin\Debug\CapaDatos.pdb
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csprojResolveAssemblyReference.cache
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.Properties.Resources.resources
+D:\UTEC\USB\PROYECTOS C#\PROYECTO HOTEL\SisReservacionesHotel\SisReservacionesHotel\obj\Debug\SisReservacionesHotel.csproj.GenerateResource.Cache
